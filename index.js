@@ -1,6 +1,6 @@
 // ⚠️ 記得替換成你在新試算表 GAS「重新部署」後產生的最新網址（/exec 結尾）
 const GAS_WEB_API_URL =
-  "https://script.google.com/macros/s/AKfycbzr2S8e8vGM2uRiYcSUe9_0Wh_KzmCt4NDj5dk--0R_0kldZqXPJbDjtJotxkr--XWi/exec";
+  "https://script.google.com/macros/s/AKfycbzNEw7DnOI2eAClJRClR1eu6RpflcwR-BqE90GZJABBBmMaStt3ucwXMttx79u_d9EYWw/exec";
 
 // 🔒 與後端維持一致的安全金鑰
 const MY_SECRET_KEY = "SungHeMu_Secret_2026_Secure";
